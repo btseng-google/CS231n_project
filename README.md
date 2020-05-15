@@ -1,2 +1,2 @@
-# CS231n_project
-CS231n S2020 Class Project
+# CS231n Final Project
+Group: Gordon Wan, Yuxuan Wang, Bonnie Tseng
